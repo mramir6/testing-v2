@@ -1,4 +1,3 @@
-# mramir6.github.io
 echo "# mramir6.github.io" >> README.md
 git init
 git add README.md
